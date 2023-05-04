@@ -1,0 +1,48 @@
+.main-title{
+    font-family:Helvetica;
+    font-size:100px;
+    font-weight:bold;
+    color:khaki;
+    text-align:center;
+    background-image: url("./pattern.jpeg");
+}
+.image-class{
+    height:200px;
+
+}
+.title-class{
+    color:white;
+    font-family:Helvetica;
+    font-size:32px;
+    font-weight:bold;
+    opacity:0.5;
+}
+
+#brushesTitle{
+    background-color:mediumspringgreen;
+}
+#framesTitle{
+    background-color:lightcoral;
+}
+#paintTitle{
+    background-color:skyblue;
+}
+
+p{
+    color:black;
+    text-align:left;
+}
+
+a{
+    font-family:Helvetica;
+    font-weight:bold;
+    color:blue;
+}
+body{
+    margin:20px;
+}
+
+section{
+    margin-left: 15px;
+    margin-right: 15px;
+}
