@@ -1,1 +1,1 @@
-# codeAcademy-React
+# codecademy-React
